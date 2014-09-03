@@ -1,0 +1,46 @@
+﻿/* NAVIGATION
+----------------------------------------------------------*/
+div.box ul {
+	background-color: #909;
+}
+
+ul.menu li a {
+    color: #000;
+}
+
+ul.menu li.selected a {
+    color: #1445ba;
+}
+
+/* FORM LAYOUT ELEMENTS
+----------------------------------------------------------*/
+.button {
+	color: #000;
+	background-color: #909;
+}
+
+/* PORTFOLIO
+----------------------------------------------------------*/
+.portfolio-box {
+    color: #000;
+}
+
+input[type=text]:focus, textarea:focus {
+    box-shadow: 0 0 10px #cc7fcc;
+}
+
+/* QUICKSAND
+----------------------------------------------------------*/
+#filter a {
+	color: #000;
+}
+
+#filter a.active {
+	box-shadow: 0 0 30px #cc7fcc;
+}
+
+#container li {
+	-moz-box-shadow: 0 0 8px #909;
+	-webkit-box-shadow: 0 0 8px #909;
+	box-shadow: 0 0 8px #909;
+}
